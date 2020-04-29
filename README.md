@@ -25,10 +25,10 @@ Then proceeded with test cases that will lead a user to go to account page.
 --- Tested successful registeration as per requirements. (passed)
 --- Tested Login after a succeful registeration (Passed)
 --- Tested the email account uniqueness through trying to register again with same email account (Passed)
---- Tested password format acceptance through using a numeric password that doesn`t contain the required format (Failed)
+--- Tested password format acceptance through using a numeric password that does not contain the required format (Failed)
 --- Tested Password limit, That I used to register a pw more than 8 ltters (Failed)
 --- Tested First and Last names should start with capital letters, That I changed any capital letters in the names created from java faker with a small letter and tried to register with. (Failed)
---- Tested first name shouldn`t be same as last name (Failed).
+--- Tested first name should not be same as last name (Failed).
 --- To overcome that an email should register only once, I concatinated some variables to a valid email address and unique ones.
 ###################################################################################################
 
