@@ -14,7 +14,7 @@ Test data is generated from Java Faker library.
 5.	Enter a Password and check that it must have capital letter, small letter, with a limit of 8 characters.
 6.	After successful registration, verify that the user can login.
 ###################################################################################################
---> Test Cases covered was as following
+--> Test Cases covered were as following
 
 started with test cases that will lead a user to remain at the registeration page.
 
